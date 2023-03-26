@@ -28,7 +28,6 @@
     
 </div>
 
-![Snake animtion](https://github.com/itupii/itupii/output/github-contribuition-grid-snake.svg)
 
 
 
