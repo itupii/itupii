@@ -2,7 +2,7 @@
 
 
 <img heigh="180em" src="https://github-readme-stats.vercel.app/api?username=itupii&show_icons=true&theme=radical"></img>
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true=true&theme=radical"></img>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itupii&hide_progress=true=true&theme=radical"></img>
 
   <a href="https://www.instagram.com/i_tupii/?next=%2Fitupii%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a><a href = "mailto:iantuoi2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/itupii" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
