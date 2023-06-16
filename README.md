@@ -1,8 +1,6 @@
 ### OLÁ SOU O  IAN FERREIRA 👋
 
 
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itupii&layout=compact&langs_count=7&theme=dracula"></img>
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=itupii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"></img>
 
 
   
